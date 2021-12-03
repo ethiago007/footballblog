@@ -1,0 +1,21 @@
+.title {
+    background: gray;
+} 
+table {
+    border: 2px solid black;
+}
+td {
+    border: 2px solid black;
+}
+.data1 {
+    background-color: red;
+    border: 2px solid black;
+}
+.data2 {
+    border: 2px solid black;
+    background-color: blue;
+}
+.data3 {
+    background-color: green;
+    border: 2px solid black;
+}
